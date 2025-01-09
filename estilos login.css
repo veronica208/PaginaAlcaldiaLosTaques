@@ -1,0 +1,73 @@
+*{
+	background: #92fcf4;
+}
+
+h1{
+	margin-top: 120px;
+	margin-left: 200px;
+	position: fixed;
+	color: #2ca7da;
+}
+
+/*FORMULARIO*/
+
+.titulo-login{
+	color: black;
+}
+
+.login{
+	background: #3bf1e2;
+	width: 400px;
+	height: 200px;
+	display: flex;
+	padding: 5px;
+	position: fixed;
+	margin-top: 180px;
+	margin-left: 280px;
+	border-radius: 5px;
+	text-align: center; /*Ajustara todo texto dentro de la caja al centro*/
+}
+
+.contenido-login{
+	background: ;
+	width: 400px;
+	height: 200px;
+	border-radius: 5px;
+	align-items: center;
+}
+
+/*FIN FORMULARIO LOGIN*/
+
+li{
+	list-style: none;
+	align-content: center;
+}
+
+li a {
+	background: #b3bdbc;
+	color: black;
+	text-decoration: none;
+	padding: 5px;
+	font: 105% sans-serif;
+	border-radius: 5px;
+}
+/*BOTON LOGIN*/
+
+/*.boton-login{
+	background: ;
+	display: flex;
+	width: 50px;
+	padding: 5px;
+	justify-content: center;
+	margin: auto;
+}
+
+
+
+/*.boton-login button{
+	background: #cdd9d8;
+	padding: 10px;
+	color: navy;
+}*/
+
+/*FIN BOTON*/
